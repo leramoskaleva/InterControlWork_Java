@@ -1,0 +1,3 @@
+Toy{id=2, name='Мяч', quantity=15, weight=40}
+Toy{id=2, Имя='Мяч', Количество=15, Вес=40}
+Toy{id=3, name='Машинка', quantity=20, weight=25}
